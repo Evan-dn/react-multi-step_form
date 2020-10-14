@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create a multi step form in React with Material Ui.
+
+## First of all
+
+Do yarn install to install dependencies 
 
 ## Available Scripts
 
